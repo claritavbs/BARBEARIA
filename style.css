@@ -1,11 +1,21 @@
 body {
-	background: #8b85e5
+	background: #e8acff
 }
+
+#banner{
+	width: 100%;
+	width: 1900px;
+	height: 650px;
+}
+h1{
+	text-align: center
+}
+
 
 p {
 	text-align: center;
 }
 
 em strong {
-	color: #97e3e9;
+	color: #fff491;
 }
