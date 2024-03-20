@@ -1,5 +1,5 @@
 body {
-	background: #e8acff
+	background: #e7c497
 }
 
 #banner{
@@ -17,5 +17,9 @@ p {
 }
 
 em strong {
-	color: #fff491;
+	color: #866322;
+}
+
+#beneficios{
+	color:bisque ;
 }
