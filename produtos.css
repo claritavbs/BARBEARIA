@@ -1,3 +1,27 @@
 header  {
     background: #80aae9;
 }
+nav li {
+     display: inline;
+     margin: 0 0 0 15px;
+}
+
+nav a{ 
+     text-transform: uppercase;
+     color:rgb(36, 6, 66);
+     font-weight: italic;
+     font-size: 22px;
+     text-decoration: none;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 110px;
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
